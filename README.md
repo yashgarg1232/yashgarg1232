@@ -1,35 +1,16 @@
 ### Hi! I'm Yash 👋
 
-A work in progress, constantly adding commits to be life coupled with frequent code reviews of my new findings.
+A work in progress, constantly adding commits to be life coupled with frequent code reviews of my new findings. I am Ph.D. candidate (focusing on information retrieval in high-dimensional space using conventional feature extraction and deep feature learning) at Arizona State University, advised by Dr. K. Selcuk Candan. I have fortunate to be awared Doctoral Fellowship Award (from Graduate College, and from Department of Computer Science), and Outstanding Mentor Award. I am a frequently visit StackOverflow, and Reddit - you can find me there, if not elsewhere.
 
-Commits so far:
+At heart, I’m a young idealist who dreams of a life of adventure, excitement, and exploration. But my brain is an old pragmatic soul, obsessed with being responsible and ensuring the security of our future self (1). I am an avid book reader with a particular interest in history, psycology, and self-improvement. Some of my best reads is Ego is the Enemy by Ryan Holiday (2).
 
-2020/07: Awarded Computer Science Doctoral Fellowship
+Pronous - He/him/his <br />
+Find me - [LinkedIn](https://www.linkedin.com/in/yashgarg1232) | [Instagram](https://www.instagram.com/yashgarg1232) | [Github](https://www.github.com/yashgarg1232)
 
-2020/03: Awarded Graduate College Doctoral Fellowship
+References
 
-2020/01: Filled for my 1st Patent
-
-2019/11: Passed Ph.D Candidacy
-
-2019/08: Interned @ Nokia Bell Labs (IoT)
-
-2018/08: Interned @ Eaton Corporation (Research - IoT)
-
-2016/01: Started as Ph.D Student
-
-2015/12: Awarded MS Degree
-
-2015/11: Defended MS Thesis
-
-2013/08: Moved to US
-
-2013/06: Awarded BE degree
-
-At heart, I’m a young idealist who dreams of a life of adventure, excitement, and exploration. But my brain is an old pragmatic soul, obsessed with being responsible and ensuring the security of our future self.
-
-
-
+1. https://partnersinfire.com/lifestyle/pragmatism-vs-idealism/
+2. https://www.goodreads.com/book/show/27036528-ego-is-the-enemy
 <!--
 **yashgarg1232/yashgarg1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
